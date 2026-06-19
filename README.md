@@ -22,6 +22,6 @@ I work across **SQL, Python and Power BI** to take a business problem from raw d
 `SQL` · `Python (pandas, scikit-learn)` · `Power BI / DAX` · `Data Modeling` · `Statistical Analysis` · `Data Visualisation` · `Stakeholder Communication`
 
 ### 📫 Reach me
-- Email: sankpalajay73@gmail.com
-- LinkedIn: _add your link_
+- Email: sankpalajay15@gmail.com
+- LinkedIn: www.linkedin.com/in/ajaysankpal
 
